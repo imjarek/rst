@@ -1,0 +1,9 @@
+#header #cart .content {
+	border: 1px solid #ccc;
+}
+.flex-direction-nav .flex-prev{
+	left: 10px !important;
+}
+.flex-direction-nav .flex-next{
+	right: 10px !important;
+}
